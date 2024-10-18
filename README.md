@@ -42,6 +42,7 @@ This will start the development server, and you can access the application in yo
 
 - Vuong Luu
   - Repo: https://github.com/vluu11/Vuong-Portfolio
+  - Deployment: https://mellifluous-pie-1ec3d8.netlify.app
 ## License
 
 MIT License  
