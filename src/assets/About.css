@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Corrected property */
+    align-items: flex-start; /* This centers the items horizontally */
+}
+
+.aboutImage {
+    border-radius: 50%;
+    width: 100px;
+    height: auto;
+    margin: 20px 0;
+}
+
+.about {
+    margin: 5px;
+    padding: 10px;
+}
