@@ -1,0 +1,16 @@
+.spicyRiceRegular {
+    font-family: "Spicy Rice", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .navbarBg {
+    background-image: url('https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); /* Replace with your image URL */
+    background-size: cover; /* Cover the entire navbar */
+    background-position: center; /* Center the image */
+    padding: 10px 0; /* Add some padding to the navbar */
+    /* Optional: Add other styling, e.g. border or box-shadow */
+    border-bottom: 2px solid #ccc; /* Example border */
+}
+
+  
